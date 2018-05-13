@@ -10,7 +10,7 @@ Title: Beowulf
        An Anglo-Saxon Epic Poem, Translated From The Heyne-Socin
        Text by Lesslie Hall
 
-Author:  
+Author:
 
 Release Date: July 19, 2005 [EBook #16328]
 
@@ -6640,7 +6640,7 @@ glossary to suit the new emendation. See 'bewyrcan.'
 
 
 
-End of the Project Gutenberg EBook of Beowulf 
+End of the Project Gutenberg EBook of Beowulf
 
 *** END OF THIS PROJECT GUTENBERG EBOOK BEOWULF ***
 
